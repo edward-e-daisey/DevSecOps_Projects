@@ -7,3 +7,5 @@ Project 2 - Ansible, Terraform, AWS, Nginx Integration Example
 Project 3 - GitHub, Jenkins, Docker, ECR, Kubernetes Example
 
 Project 4 - CI/CD pipeline [In Progress]
+
+Project 5 - To Be Added.
