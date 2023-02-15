@@ -1,6 +1,6 @@
 # Name: Edward E. Daisey
 # Date: February 15th, 2023
-# Description: Practice with Boto3 & Python. In Progress.
+# Description: Practice with Boto3 & Python. Currently in progress.
 
 import boto3
 
