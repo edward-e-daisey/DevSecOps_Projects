@@ -8,6 +8,7 @@ Dependencies:
 - Project 4: CI/CD pipeline.
 - Project 5: To Be Added.
 - Project 6: To Be Added.
+- Project 7: To Be Added.
 
 See TableOfContents.md for a list of each individual DevSecOps project, as well as a brief description capturing the purpose of each project.
 
