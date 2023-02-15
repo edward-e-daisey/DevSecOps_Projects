@@ -8,7 +8,7 @@ Project 3 - GitHub, Jenkins, Docker, ECR, Kubernetes Example
 
 Project 4 - CI/CD pipeline [In Progress]
 
-Project 5 - To Be Added.
+Project 5 - Boto3 & Python.
 
 Project 6 - To Be Added.
 
