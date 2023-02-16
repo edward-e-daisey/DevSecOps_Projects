@@ -1,12 +1,12 @@
 Project Title: DevSecOps Projects
 Description: Scripts for DevOps automation.
 Dependencies: 
-- Project 0: Azure Cloud Resume Challenge.
-- Project 1: AWS Cloud Resume Challenge --> See Table of Contents for url.
-- Project 2: Ansible, Terraform, AWS, Nginx Integration example.
-- Project 3: GitHub, Jenkins, Docker, ECR, Kubernetes example.
-- Project 4: CI/CD pipeline.
-- Project 5: Boto3 & Python.
+- Project 0: Azure Cloud Resume Challenge [In Progress]
+- Project 1: AWS Cloud Resume Challenge --> See Table of Contents for working url. [In Progress]
+- Project 2: Ansible, Terraform, AWS, Nginx Integration example
+- Project 3: GitHub, Jenkins, Docker, ECR, Kubernetes example [In Progress]
+- Project 4: CI/CD pipeline [In Progress]
+- Project 5: Boto3 & Python [In Progress]
 - Project 6: To Be Added.
 - Project 7: To Be Added.
 
