@@ -11,5 +11,3 @@ Project 4 - CI/CD pipeline [In Progress]
 Project 5 - Boto3 & Python [In Progress]
 
 Project 6 - To Be Added.
-
-Project 7 - To Be Added.
