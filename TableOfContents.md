@@ -9,3 +9,5 @@ Project 3 - GitHub, Jenkins, Docker, ECR, Kubernetes Example [In Progress]
 Project 4 - CI/CD pipeline [In Progress]
 
 Project 5 - Boto3 & Python [In Progress]
+
+Project 6 - Go Practice [In Progress]
