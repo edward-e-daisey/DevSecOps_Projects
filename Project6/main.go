@@ -1,6 +1,6 @@
 // Name: Edward E. Daisey
 // Date: February 17, 2023
-// Purpose: Go practice.
+// Description: Go practice.
 
 
 package main
@@ -18,14 +18,14 @@ type Config struct {
 }
 
 func main(){
-     // Purpose - Read the configuration file.
+     // Purpose - Read the configuration file.  To Do - Investigate further.
      configData, err := ioutil.ReadFile("config.yaml")
      if err != nil {
           fmt.Println("Error reading config file:", err)
 	  os.Exit(1)
      }
 
-     // Purpose - Parse the configuration file.
+     // Purpose - Parse the configuration file.  To Do - Investigate further.
      var config Config
      err = yaml.Unmarshal(configData, &config)
      if err != nil {
